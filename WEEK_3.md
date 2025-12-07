@@ -164,7 +164,7 @@ This created:
 - Timing_graph.png
 - Timing_report.txt
 ✅ Timing graph has been generated.
-![OpenSTA_simulation](assets/timing_graph.png)
+![OpenSTA_simulation](assets/timing_graph1.png)
 
 ## Observations:
 
