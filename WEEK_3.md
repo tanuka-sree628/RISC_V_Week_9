@@ -145,7 +145,7 @@ This created:
 - Timing_graph.png
 - Timing_report.txt
 ✅ Timing graph has been generated.
-![OpenSTA_simulation](assets/timing_graph.png)
+![OpenSTA_simulation](assets/timing_graph1.png)
 
 ## 2.Visualising timing graph of bad_mux_net.v netlist.
 - Created a bad_mux_opensta.tcl based on the netlist text file to open them in sta.
@@ -164,7 +164,7 @@ This created:
 - Timing_graph.png
 - Timing_report.txt
 ✅ Timing graph has been generated.
-![OpenSTA_simulation](assets/timing_graph1.png)
+![OpenSTA_simulation](assets/timing_graph.png)
 
 ## Observations:
 
