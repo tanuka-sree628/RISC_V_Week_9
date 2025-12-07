@@ -215,4 +215,4 @@ I have attatched these reports in this repository :
 - min_max_sky130_fd_sc_hd__ss_n40C_1v40.lib.txt
 - min_max_sky130_fd_sc_hd__tt_025C_1v80.lib.txt
 
-These results help verify whether the design i
+These results help verify whether the design is timing-clean across all corners and indicate if additional optimization such as resizing, buffering, or routing adjustments is needed.
