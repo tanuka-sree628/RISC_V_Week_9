@@ -7,16 +7,16 @@ This document summarizes the complete RTL-to-GDS flow carried out for the VSDBab
 ## 1.1 Layout Screenshots Captured
 
 ## Floorplan view
-![Yosys_simulation](assets/floorplan.jpeg)
+![Yosys_simulation](assets/floorplan.jpg)
 
 ## Placement view
-![Yosys_simulation](assets/placement.jpeg)
+![Yosys_simulation](assets/placement.jpg)
 
 ## CTS view
-![Yosys_simulation](assets/cts.jpeg)
+![Yosys_simulation](assets/cts.jpg)
 
 ## Routing view (noting congestion issues)
-![Yosys_simulation](assets/routing_failed.jpeg)
+![Yosys_simulation](assets/routing_failed.jpg)
 
 Terminal log showing SPEF generation
 
